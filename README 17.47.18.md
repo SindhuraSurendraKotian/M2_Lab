@@ -1,2 +1,2 @@
-# Assignment_7
+# M2_Lab1
  JavaScript2
